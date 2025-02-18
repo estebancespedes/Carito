@@ -1,0 +1,63 @@
+body{
+    background-image:url("recursos/Fondo.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.751);
+    background-blend-mode: darken;
+}
+
+#titulo{
+    font-family:serif;
+    color: white;
+    text-align: center;
+}
+
+ol{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.par{
+    background-color: rgba(245, 245, 220, 0.237);
+}
+img,video{
+    width: 150px;
+    border:solid white;
+    border-width:10px 10px 40px 10px;
+    align-items: center;
+}
+#imagenes{
+    text-align: center;
+}
+
+#esp{
+    width: 670px;
+}
+#frase{
+    color:white;
+    text-align: center;
+}
+
+#autor{
+    text-align: right;
+    color:white;
+}
+
+#texto{
+    border: solid white;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+#a{
+    width: 670px;
+}
+#video{
+    text-align: center;
+}
+#TeAmo{
+    font-family:serif;
+    color: white;
+    text-align: center;
+}
